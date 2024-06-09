@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipalok07
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...htmnl,css and js
+- 🌱 I’m currently learning ...html,css and js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
